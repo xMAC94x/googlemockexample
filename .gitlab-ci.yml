@@ -1,0 +1,7 @@
+before_script:
+  - git submodule update --init --recursive
+  - ./run.sh buildonly
+
+unittests:
+  script:
+    - ./build/MainTest

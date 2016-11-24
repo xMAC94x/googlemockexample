@@ -1,0 +1,1 @@
+int multNumbers(const int foo, const int bar);
