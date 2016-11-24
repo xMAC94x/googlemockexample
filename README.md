@@ -6,6 +6,9 @@ It also contains a .gitlab-ci.yml file, if you are using Gitlab CI.
 I am nether an expert with CMake nor GoogleMock, so this repo might not be the easiest way to combine those tools, but it works.
 Feel free to propose better solutions to improve this code example.
 
+Thanks to Stackoverflow user Fraser
+http://stackoverflow.com/questions/9689183/cmake-googletest
+
 ## Tested with
 
 - Windows 7 (initial commit)
