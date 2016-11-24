@@ -1,6 +1,6 @@
-# googlemockexample
+# googlemocktemplate
 
-This is an example project using GoogleMock and GoogleTest in combination with CMake
+This is an example template project using GoogleMock and GoogleTest in combination with CMake
 It contains a simple main file which will multiplicate 2 numbers and a test unit which will test the functionality.
 It also contains a .gitlab-ci.yml file, if you are using Gitlab CI.
 I am nether an expert with CMake nor GoogleMock, so this repo might not be the easiest way to combine those tools, but it works.
